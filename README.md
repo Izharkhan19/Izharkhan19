@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Izhar khan</h1>
 <h3 align="center">A passionate MERN Stack || Next Js developer from India</h3>
 
-- 🌱 I’m currently learning **Lattest Technologies**
+- 🌱 I’m currently learning **Latest Technologies**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ivory-omega-25.vercel.app/](https://portfolio-ivory-omega-25.vercel.app/)
 
